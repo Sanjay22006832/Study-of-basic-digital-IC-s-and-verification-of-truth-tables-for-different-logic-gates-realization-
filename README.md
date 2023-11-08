@@ -67,13 +67,15 @@ endmodule
 ```
 
 ## TRUTHTABLE:
-![image](https://github.com/Jaiganesh235/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118657189/662e1ae9-9fad-4205-8f0c-f649d7ed457a)
+![image](https://github.com/Sanjay22006832/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119830477/fe64a19d-5727-4231-ba98-7b6d2266f8be)
+
 
 ## RTL REALIZATION:
-![image](https://github.com/Jaiganesh235/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118657189/7b8f4028-92ff-450d-be55-d8e24bdf42a0)
+![image](https://github.com/Sanjay22006832/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119830477/74fe91eb-aa27-4d5e-9ff7-3caa75772fc6)
 
 ## OUTPUT WAVEFORM:
-![image](https://github.com/Jaiganesh235/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118657189/19511fba-791e-4589-9272-4e5a59d92e04)
+![image](https://github.com/Sanjay22006832/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119830477/770f8d3a-db41-4606-8c98-534189a3267e)
+
 
 ## RESULT:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
